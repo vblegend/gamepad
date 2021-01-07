@@ -1,9 +1,0 @@
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\bin\Release\netstandard2.1\WebSocketServer.Net.deps.json
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\bin\Release\netstandard2.1\WebSocketServer.Net.dll
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\bin\Release\netstandard2.1\WebSocketServer.Net.pdb
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\obj\Release\netstandard2.1\WebSocketServer.Net.csprojAssemblyReference.cache
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\obj\Release\netstandard2.1\WebSocketServer.Net.AssemblyInfoInputs.cache
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\obj\Release\netstandard2.1\WebSocketServer.Net.AssemblyInfo.cs
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\obj\Release\netstandard2.1\WebSocketServer.Net.csproj.CoreCompileInputs.cache
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\obj\Release\netstandard2.1\WebSocketServer.Net.dll
-C:\Users\vbleg\source\repos\VGame\WebSocket.Net\obj\Release\netstandard2.1\WebSocketServer.Net.pdb
