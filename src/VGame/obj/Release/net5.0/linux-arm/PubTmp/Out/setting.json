@@ -1,0 +1,9 @@
+{
+  "Mode": "Fixed",
+  "LatchPin": 16,
+  "ClkPin": 12,
+  "Data1Pin": 20,
+  "Data2Pin": 21,
+  "DelayTime": 1000,
+  "keyRepeatPressEvent": 0
+}

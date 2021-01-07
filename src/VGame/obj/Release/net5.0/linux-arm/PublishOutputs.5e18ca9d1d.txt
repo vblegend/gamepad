@@ -1,0 +1,8 @@
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\appsettings.Development.json
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\appsettings.json
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\gamepad.pdb
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\libwiringPi.so
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\setting.json
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\wwwroot\Index.html
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\WebSocketServer.Net.pdb
+C:\Users\vbleg\source\repos\VGame\VGame\obj\Release\net5.0\linux-arm\PubTmp\Out\gamepad
